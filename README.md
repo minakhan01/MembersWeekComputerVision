@@ -1,3 +1,7 @@
+/AIY-projects-python/src/examples/vision
+
+./mobilenet_based_classifier_custom.py --model_path /opt/aiy/models/rounded_graph_members_week.binaryproto --label_path /home/pi/AIY-projects-python/src/aiy/vision/models/person_classes_members --input_width 160 --input_height 160 --input_layer input --output_layer final_result 
+
 # Overview
 
 This repo contains code for the "TensorFlow for poets 2" series of codelabs.
